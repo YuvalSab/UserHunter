@@ -31,5 +31,5 @@ Function UserHunter {
     }
 }
 
-#Usage:
+# Usage:
 # UserHunter -UserName "<Target User>" -DomainName "<Domain.com>"
